@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
-import com.aws.mobile.app.controller.HelloWorldController;
+import com.aws.codestar.mobile.app.controller.HelloWorldController;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

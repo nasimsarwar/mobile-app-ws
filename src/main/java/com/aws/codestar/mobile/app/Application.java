@@ -1,4 +1,4 @@
-package com.aws.mobile.app;
+package com.aws.codestar.mobile.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

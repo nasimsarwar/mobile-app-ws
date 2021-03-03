@@ -1,4 +1,4 @@
-package com.aws.mobile.app.controller;
+package com.aws.codestar.mobile.app.controller;
 
 import org.json.JSONObject;
 import org.springframework.http.ResponseEntity;
